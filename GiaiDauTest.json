@@ -1,0 +1,10 @@
+{
+  "groupId": "cup_01",
+  "groupName": "Cúp Tứ Hùng",
+  "teams": [
+    { "id": "t01", "name": "Việt Nam", "logoUrl": "https://placehold.co/100x100/FF0000/FFFF00/png?text=VN" },
+    { "id": "t02", "name": "Thái Lan", "logoUrl": "https://placehold.co/100x100/0000FF/FFFFFF/png?text=TH" },
+    { "id": "t03", "name": "Hàn Quốc", "logoUrl": "https://placehold.co/100x100/FFFFFF/000000/png?text=KR" },
+    { "id": "t04", "name": "Nhật Bản", "logoUrl": "https://placehold.co/100x100/000080/FFFFFF/png?text=JP" }
+  ]
+}
