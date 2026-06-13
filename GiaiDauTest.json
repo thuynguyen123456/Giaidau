@@ -2,9 +2,9 @@
   "groupId": "cup_01",
   "groupName": "Cúp Tứ Hùng",
   "teams": [
-    { "id": "t01", "name": "Việt Nam", "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/logos/vn-flag.jpg" },
-    { "id": "t02", "name": "Thái Lan", "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/logos/thailan.png" },
-    { "id": "t03", "name": "Hàn Quốc", "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/logos/hanquoc.jpg" },
-    { "id": "t04", "name": "Nhật Bản", "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/logos/nhat-ban.png" }
+    { "id": "t01", "name": "Việt Nam", "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/logos/vn-flag.jpg?raw=true" },
+    { "id": "t02", "name": "Thái Lan", "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/logos/thailan.png?raw=true" },
+    { "id": "t03", "name": "Hàn Quốc", "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/logos/hanquoc.jpg?raw=true" },
+    { "id": "t04", "name": "Nhật Bản", "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/logos/nhat-ban.png?raw=true" }
   ]
 }
