@@ -1,0 +1,45 @@
+{
+  "leagues": [
+    {
+      "groupId": "epl_2026",
+      "groupName": "English Premier League",
+      "type": "Club",
+      "teams": [
+        {
+          "id": "club_eng_001",
+          "name": "Manchester City",
+          "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/logos/man_city.png?raw=true"
+        },
+        {
+          "id": "club_eng_002",
+          "name": "Manchester United",
+          "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/logos/manu.png?raw=true"
+        }
+      ]
+    },
+    {
+      "groupId": "laliga_2026",
+      "groupName": "La Liga",
+      "type": "Club",
+      "teams": [
+        {
+          "id": "esp_001",
+          "name": "Real Madrid",
+          "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/logos/real.png?raw=true"
+        }
+      ]
+    },
+    {
+      "groupId": "cup_01",
+      "groupName": "Cúp Tứ Hùng",
+      "type": "National",
+      "teams": [
+        {
+          "id": "t01",
+          "name": "Việt Nam",
+          "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/logos/vn-flag.jpg?raw=true"
+        }
+      ]
+    }
+  ]
+}
