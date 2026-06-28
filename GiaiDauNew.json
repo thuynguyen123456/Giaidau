@@ -8,102 +8,102 @@
         {
           "id": "club_eng_01",
           "name": "Arsenal",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/Arsenal-North%20London%20Red.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641385/Arsenal-North_London_Red_lhib55.png"
         },
         {
           "id": "club_eng_02",
           "name": "Aston Villa",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/AstonVilla-Aston%20RB.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641386/AstonVilla-Aston_RB_xahhd8.png"
         },
         {
           "id": "club_eng_03",
           "name": "Bournemouth",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/Bournemouth-Bournemouth%20RB.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641386/Bournemouth-Bournemouth_RB_nsucmt.png"
         },
         {
           "id": "club_eng_04",
           "name": "Brentford",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/Brentford-Brentford%20RW.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641387/Brentford-Brentford_RW_d5zxf9.png"
         },
         {
           "id": "club_eng_05",
           "name": "Brighton",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/Brighton-Brighton%20WB.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641388/Brighton-Brighton_WB_wlzn8o.png"
         },
         {
           "id": "club_eng_06",
           "name": "Chelsea",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/Chelsea-Chelsea%20B.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641388/Chelsea-Chelsea_B_urrmld.png"
         },
         {
           "id": "club_eng_07",
           "name": "Coventry City",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/CoventryCity-Coventry%20B.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641389/CoventryCity-Coventry_B_nab87r.png"
         },
         {
           "id": "club_eng_08",
           "name": "Crystal Palace",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/CrystalPalace-Palace%20RB.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641390/CrystalPalace-Palace_RB_runqqi.png"
         },
         {
           "id": "club_eng_09",
           "name": "Everton",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/Everton-Everton%20B.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641391/Everton-Everton_B_byd1qk.png"
         },
         {
           "id": "club_eng_10",
           "name": "Fulham",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/Fulham-Fulham%20W.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641392/Fulham-Fulham_W_y67fks.png"
         },
         {
           "id": "club_eng_11",
           "name": "Hull City",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/HullCity-Hull%20A.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641392/HullCity-Hull_A_wigxop.png"
         },
         {
           "id": "club_eng_12",
           "name": "Leeds United",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/Leeds%20United-Leeds%20W.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641394/Leeds_United-Leeds_W_apact8.png"
         },
         {
           "id": "club_eng_13",
           "name": "Liverpool",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/Liverpool-Liverpool%20R.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641395/Liverpool-Liverpool_R_yqn0lm.png"
         },
         {
           "id": "club_eng_14",
           "name": "Manchester City",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/Manchester%20city-Man%20Blue.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641395/Manchester_city-Man_Blue_tw9qqp.png"
         },
         {
           "id": "club_eng_15",
           "name": "Manchester United",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/ManchesterUnited-Man%20Red.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641397/ManchesterUnited-Man_Red_npflyh.png"
         },
         {
           "id": "club_eng_16",
           "name": "Newcastle United",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/Newcastle%20United-Newcastle%20WB.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641397/Newcastle_United-Newcastle_WB_enrjjj.png"
         },
         {
           "id": "club_eng_17",
           "name": "Nottingham Forest",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/Nottingham%20Forest-Nottingham%20RB.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641398/Nottingham_Forest-Nottingham_RB_b2yunr.png"
         },
         {
           "id": "club_eng_18",
           "name": "Sunderland",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/Sunderland-Sunderland%20R.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641399/Sunderland-Sunderland_R_ktohw4.png"
         },
         {
           "id": "club_eng_19",
           "name": "Tottenham",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/Tottenham-Tottenham%20WB.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641400/Tottenham-Tottenham_WB_yfbys6.png"
         },
         {
           "id": "club_eng_20",
           "name": "Ipswich Town",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Premier%20League-English%20League/ipswich%20town-Ipswich%20B.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641393/ipswich_town-Ipswich_B_ttsi3o.png"
         }
       ]
     },
@@ -115,97 +115,97 @@
         {
           "id": "club_liga_01",
           "name": "Alaves",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Laliga-Spanish%20League/Alaves-%C3%81lava%20AB.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641416/Alaves-%C3%81lava_AB_fiydnd.png"
         },
         {
           "id": "club_liga_02",
           "name": "Athletic Bilbao",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Laliga-Spanish%20League/Athletic%20Bilbao-Bilbao%20BR.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641416/Athletic_Bilbao-Bilbao_BR_lzszti.png"
         },
         {
           "id": "club_liga_03",
           "name": "Atlético Madrid",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Laliga-Spanish%20League/Atl%C3%A9tico%20Madrid-Madrid%20Rosas%20RB.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641417/Atl%C3%A9tico_Madrid-Madrid_Rosas_RB_gpqtrr.png"
         },
         {
           "id": "club_liga_04",
           "name": "Barcelona",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Laliga-Spanish%20League/Barcelona-Barcelona.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641418/Barcelona-Barcelona_pnbq1l.png"
         },
         {
           "id": "club_liga_05",
           "name": "Celta Vigo",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Laliga-Spanish%20League/Celta%20Vigo-Vigo%20AB.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641419/Celta_Vigo-Vigo_AB_dwwjew.png"
         },
         {
           "id": "club_liga_06",
           "name": "Deportivo de La Coruña",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Laliga-Spanish%20League/Deportivo%20de%20La%20Coru%C3%B1a-Deportivo%20AB.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641419/Deportivo_de_La_Coru%C3%B1a-Deportivo_AB_ih0xbf.png"
         },
         {
           "id": "club_liga_07",
           "name": "Elche",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Laliga-Spanish%20League/Elche-Elche%20BV.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641420/Elche-Elche_BV_reiuik.png"
         },
         {
           "id": "club_liga_08",
           "name": "Espanyol",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Laliga-Spanish%20League/Espanyol-Llobregat%20AB.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641421/Espanyol-Llobregat_AB_xqhvng.png"
         },
         {
           "id": "club_liga_09",
           "name": "Getafe",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Laliga-Spanish%20League/Getafe-Getafe%20A.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641422/Getafe-Getafe_A_fwh5my.png"
         },
         {
           "id": "club_liga_10",
           "name": "Levante",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Laliga-Spanish%20League/Levante-Levante%20RA.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641423/Levante-Levante_RA_qycjmh.png"
         },
         {
           "id": "club_liga_11",
           "name": "Osasuna",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Laliga-Spanish%20League/Osasuna-Pamplona%20RA.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641424/Osasuna-Pamplona_RA_rviyo6.png"
         },
         {
           "id": "club_liga_12",
           "name": "Racing Santander",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Laliga-Spanish%20League/RacingSantander-Santander%20VB.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641441/RacingSantander-Santander_VB_ijnzct.png"
         },
         {
           "id": "club_liga_13",
           "name": "Rayo Vallecano",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Laliga-Spanish%20League/Rayo%20Vallecano-Vallecas%20BR.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641442/Rayo_Vallecano-Vallecas_BR_rjlkby.png"
         },
         {
           "id": "club_liga_14",
           "name": "Real Sociedad",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Laliga-Spanish%20League/Real%20Sociedad-Vasco%20Gipuzkoa%20AB.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641443/Real_Sociedad-Vasco_Gipuzkoa_AB_lvwtde.png"
         },
         {
           "id": "club_liga_15",
           "name": "Real Betis",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Laliga-Spanish%20League/RealBetis-Sevilla%20Triana%20VB.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641444/RealBetis-Sevilla_Triana_VB_twixfu.png"
         },
         {
           "id": "club_liga_16",
           "name": "Real Madrid",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Laliga-Spanish%20League/RealMadrid-Madrid%20Chamartin%20B.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641445/RealMadrid-Madrid_Chamartin_B_raxxnv.png"
         },
         {
           "id": "club_liga_17",
           "name": "Sevilla",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Laliga-Spanish%20League/Sevilla-Sevilla%20Nervi%C3%B3n%20BR.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641446/Sevilla-Sevilla_Nervi%C3%B3n_BR_mbybjx.png"
         },
         {
           "id": "club_liga_18",
           "name": "Valencia",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Laliga-Spanish%20League/Valencia-Valencia%20BN.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641447/Valencia-Valencia_BN_k2vjxt.png"
         },
         {
           "id": "club_liga_19",
           "name": "Villarreal",
-          "logoUrl": "https://raw.githubusercontent.com/thuynguyen123456/Giaidau/main/Laliga-Spanish%20League/Villarreal-Villarreal%20A.png"
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1782641448/Villarreal-Villarreal_A_gysuf5.png"
         }
       ]
     }
