@@ -18,27 +18,45 @@
       ]
     },
     {
-      "groupId": "laliga_2026",
-      "groupName": "La Liga",
+      "groupId": "Laliga",
+      "groupName": "Laliga",
       "type": "Club",
       "teams": [
         {
-          "id": "esp_001",
-          "name": "Real Madrid",
-          "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/logos/real.png?raw=true"
-        }
-      ]
-    },
-    {
-      "groupId": "cup_01",
-      "groupName": "Cúp Tứ Hùng",
-      "type": "National",
-      "teams": [
+          "id": "club_liga_01",
+          "name": "Alaves",
+          "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/Laliga-Spanish%20League/Alaves-%C3%81lava%20AB.png?raw=true"
+        },
         {
-          "id": "t01",
-          "name": "Việt Nam",
-          "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/logos/vn-flag.jpg?raw=true"
-        }
+          "id": "club_liga_02",
+          "name": "Athletic Bilbao",
+          "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/Laliga-Spanish%20League/Athletic%20Bilbao-Bilbao%20BR.png?raw=true"
+        },
+        {
+          "id": "club_liga_03",
+          "name": "Atlético Madrid",
+          "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/Laliga-Spanish%20League/Atl%C3%A9tico%20Madrid-Madrid%20Rosas%20RB.png?raw=true"
+        },
+        {
+          "id": "club_liga_04",
+          "name": "Barcelona",
+          "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/Laliga-Spanish%20League/Barcelona-Barcelona.png?raw=true"
+        },
+                {
+          "id": "club_liga_05",
+          "name": "Celta Vigo",
+          "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/Laliga-Spanish%20League/Celta%20Vigo-Vigo%20AB.png?raw=true"
+        },
+                        {
+          "id": "club_liga_06",
+          "name": "Elche",
+          "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/Laliga-Spanish%20League/Elche-Elche%20BV.png?raw=true"
+        },
+                                {
+          "id": "club_liga_07",
+          "name": "Espanyol",
+          "logoUrl": "https://github.com/thuynguyen123456/Giaidau/blob/main/Laliga-Spanish%20League/Espanyol-Llobregat%20AB.png?raw=true"
+        },
       ]
     }
   ]
