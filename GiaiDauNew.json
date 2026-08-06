@@ -7,140 +7,140 @@
       "teams": [
         {
           "id": "01premierleague_001",
-          "displayName": "Arsenal",
+          "name": "Arsenal",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027437/Arsenal_pmt0so.png",
           "localSpriteKey": "01.Premier League/Arsenal",
           "isActive": true
         },
         {
           "id": "01premierleague_002",
-          "displayName": "Aston-Villa",
+          "name": "Aston-Villa",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027437/Aston-Villa_mk9tnt.png",
           "localSpriteKey": "01.Premier League/Aston-Villa",
           "isActive": true
         },
         {
           "id": "01premierleague_003",
-          "displayName": "Bournemouth",
+          "name": "Bournemouth",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027437/Bournemouth_pcm8nj.png",
           "localSpriteKey": "01.Premier League/Bournemouth",
           "isActive": true
         },
         {
           "id": "01premierleague_004",
-          "displayName": "Brentford",
+          "name": "Brentford",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027438/Brentford_mrb2ei.png",
           "localSpriteKey": "01.Premier League/Brentford",
           "isActive": true
         },
         {
           "id": "01premierleague_005",
-          "displayName": "Brighton",
+          "name": "Brighton",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027438/Brighton_q4gvbo.png",
           "localSpriteKey": "01.Premier League/Brighton",
           "isActive": true
         },
         {
           "id": "01premierleague_006",
-          "displayName": "Chelsea",
+          "name": "Chelsea",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027439/Chelsea_uggdmb.png",
           "localSpriteKey": "01.Premier League/Chelsea",
           "isActive": true
         },
         {
           "id": "01premierleague_007",
-          "displayName": "Coventry-City",
+          "name": "Coventry-City",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027439/Coventry-City_awd8um.png",
           "localSpriteKey": "01.Premier League/Coventry-City",
           "isActive": true
         },
         {
           "id": "01premierleague_008",
-          "displayName": "Crystal-Palace",
+          "name": "Crystal-Palace",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027440/Crystal-Palace_hqgvhb.png",
           "localSpriteKey": "01.Premier League/Crystal-Palace",
           "isActive": true
         },
         {
           "id": "01premierleague_009",
-          "displayName": "Everton",
+          "name": "Everton",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027440/Everton_xeizgx.png",
           "localSpriteKey": "01.Premier League/Everton",
           "isActive": true
         },
         {
           "id": "01premierleague_010",
-          "displayName": "Fulham",
+          "name": "Fulham",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027440/Fulham_mgy99h.png",
           "localSpriteKey": "01.Premier League/Fulham",
           "isActive": true
         },
         {
           "id": "01premierleague_011",
-          "displayName": "Hull-City",
+          "name": "Hull-City",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027441/Hull-City_w4njdt.png",
           "localSpriteKey": "01.Premier League/Hull-City",
           "isActive": true
         },
         {
           "id": "01premierleague_012",
-          "displayName": "Ipswich-Town",
+          "name": "Ipswich-Town",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027441/Ipswich-Town_r6dxla.png",
           "localSpriteKey": "01.Premier League/Ipswich-Town",
           "isActive": true
         },
         {
           "id": "01premierleague_013",
-          "displayName": "Leeds-United",
+          "name": "Leeds-United",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027442/Leeds-United_rnoedv.png",
           "localSpriteKey": "01.Premier League/Leeds-United",
           "isActive": true
         },
         {
           "id": "01premierleague_014",
-          "displayName": "Liverpool",
+          "name": "Liverpool",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027442/Liverpool_h0ifps.png",
           "localSpriteKey": "01.Premier League/Liverpool",
           "isActive": true
         },
         {
           "id": "01premierleague_015",
-          "displayName": "Manchester-City",
+          "name": "Manchester-City",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027443/Manchester-City_kuxvl0.png",
           "localSpriteKey": "01.Premier League/Manchester-City",
           "isActive": true
         },
         {
           "id": "01premierleague_016",
-          "displayName": "Manchester-United",
+          "name": "Manchester-United",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027443/Manchester-United_cqnhaa.png",
           "localSpriteKey": "01.Premier League/Manchester-United",
           "isActive": true
         },
         {
           "id": "01premierleague_017",
-          "displayName": "Newcastle-United",
+          "name": "Newcastle-United",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027444/Newcastle-United_aexjvf.png",
           "localSpriteKey": "01.Premier League/Newcastle-United",
           "isActive": true
         },
         {
           "id": "01premierleague_018",
-          "displayName": "Nottingham-Forest",
+          "name": "Nottingham-Forest",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027444/Nottingham-Forest_x8bxrb.png",
           "localSpriteKey": "01.Premier League/Nottingham-Forest",
           "isActive": true
         },
         {
           "id": "01premierleague_019",
-          "displayName": "Sunderland",
+          "name": "Sunderland",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027444/Sunderland_dkl66s.png",
           "localSpriteKey": "01.Premier League/Sunderland",
           "isActive": true
         },
         {
           "id": "01premierleague_020",
-          "displayName": "Tottenham-Hotspur",
+          "name": "Tottenham-Hotspur",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027445/Tottenham-Hotspur_i3spxq.png",
           "localSpriteKey": "01.Premier League/Tottenham-Hotspur",
           "isActive": true
@@ -154,140 +154,140 @@
       "teams": [
         {
           "id": "02laliga_001",
-          "displayName": "Alaves",
+          "name": "Alaves",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027391/Alaves_ttxtra.png",
           "localSpriteKey": "02.La Liga/Alaves",
           "isActive": true
         },
         {
           "id": "02laliga_002",
-          "displayName": "Athletic-Bilbao",
+          "name": "Athletic-Bilbao",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027391/Athletic-Bilbao_n80amx.png",
           "localSpriteKey": "02.La Liga/Athletic-Bilbao",
           "isActive": true
         },
         {
           "id": "02laliga_003",
-          "displayName": "Atletico-Madrid",
+          "name": "Atletico-Madrid",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027391/Atletico-Madrid_b7dgrf.png",
           "localSpriteKey": "02.La Liga/Atletico-Madrid",
           "isActive": true
         },
         {
           "id": "02laliga_004",
-          "displayName": "Barcelona",
+          "name": "Barcelona",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027391/Barcelona_dabqu0.png",
           "localSpriteKey": "02.La Liga/Barcelona",
           "isActive": true
         },
         {
           "id": "02laliga_005",
-          "displayName": "Celta-Vigo",
+          "name": "Celta-Vigo",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027391/Celta-Vigo_zr28q5.png",
           "localSpriteKey": "02.La Liga/Celta-Vigo",
           "isActive": true
         },
         {
           "id": "02laliga_006",
-          "displayName": "Deportivo-La-Coruna",
+          "name": "Deportivo-La-Coruna",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027391/Deportivo-La-Coruna_etitsj.png",
           "localSpriteKey": "02.La Liga/Deportivo-La-Coruna",
           "isActive": true
         },
         {
           "id": "02laliga_007",
-          "displayName": "Elche",
+          "name": "Elche",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027391/Elche_ym7gtp.png",
           "localSpriteKey": "02.La Liga/Elche",
           "isActive": true
         },
         {
           "id": "02laliga_008",
-          "displayName": "Espanyol",
+          "name": "Espanyol",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027392/Espanyol_zy2fqo.png",
           "localSpriteKey": "02.La Liga/Espanyol",
           "isActive": true
         },
         {
           "id": "02laliga_009",
-          "displayName": "Getafe",
+          "name": "Getafe",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027392/Getafe_xjoshy.png",
           "localSpriteKey": "02.La Liga/Getafe",
           "isActive": true
         },
         {
           "id": "02laliga_010",
-          "displayName": "Levante",
+          "name": "Levante",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027392/Levante_atyqv3.png",
           "localSpriteKey": "02.La Liga/Levante",
           "isActive": true
         },
         {
           "id": "02laliga_011",
-          "displayName": "Malaga",
+          "name": "Malaga",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027392/Malaga_cuzrej.png",
           "localSpriteKey": "02.La Liga/Malaga",
           "isActive": true
         },
         {
           "id": "02laliga_012",
-          "displayName": "Osasuna",
+          "name": "Osasuna",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027392/Osasuna_oif3kz.png",
           "localSpriteKey": "02.La Liga/Osasuna",
           "isActive": true
         },
         {
           "id": "02laliga_013",
-          "displayName": "Racing-Santander",
+          "name": "Racing-Santander",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027392/Racing-Santander_ke7mnq.png",
           "localSpriteKey": "02.La Liga/Racing-Santander",
           "isActive": true
         },
         {
           "id": "02laliga_014",
-          "displayName": "Rayo-Vallecano",
+          "name": "Rayo-Vallecano",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027392/Rayo-Vallecano_jdx12i.png",
           "localSpriteKey": "02.La Liga/Rayo-Vallecano",
           "isActive": true
         },
         {
           "id": "02laliga_015",
-          "displayName": "Real-Betis",
+          "name": "Real-Betis",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027392/Real-Betis_w2ukkj.png",
           "localSpriteKey": "02.La Liga/Real-Betis",
           "isActive": true
         },
         {
           "id": "02laliga_016",
-          "displayName": "Real-Madrid",
+          "name": "Real-Madrid",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027392/Real-Madrid_ddrxvs.png",
           "localSpriteKey": "02.La Liga/Real-Madrid",
           "isActive": true
         },
         {
           "id": "02laliga_017",
-          "displayName": "Real-Sociedad",
+          "name": "Real-Sociedad",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027393/Real-Sociedad_fpd3un.png",
           "localSpriteKey": "02.La Liga/Real-Sociedad",
           "isActive": true
         },
         {
           "id": "02laliga_018",
-          "displayName": "Sevilla",
+          "name": "Sevilla",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027393/Sevilla_j47z7a.png",
           "localSpriteKey": "02.La Liga/Sevilla",
           "isActive": true
         },
         {
           "id": "02laliga_019",
-          "displayName": "Valencia",
+          "name": "Valencia",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027393/Valencia_dhhz0j.png",
           "localSpriteKey": "02.La Liga/Valencia",
           "isActive": true
         },
         {
           "id": "02laliga_020",
-          "displayName": "Villarreal",
+          "name": "Villarreal",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027394/Villarreal_j4jnl9.png",
           "localSpriteKey": "02.La Liga/Villarreal",
           "isActive": true
@@ -301,140 +301,140 @@
       "teams": [
         {
           "id": "03seriea_001",
-          "displayName": "AC-Milan",
+          "name": "AC-Milan",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027533/AC-Milan_yrpvdr.png",
           "localSpriteKey": "03.Serie A/AC-Milan",
           "isActive": true
         },
         {
           "id": "03seriea_002",
-          "displayName": "Atalanta",
+          "name": "Atalanta",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027533/Atalanta_naidfe.png",
           "localSpriteKey": "03.Serie A/Atalanta",
           "isActive": true
         },
         {
           "id": "03seriea_003",
-          "displayName": "Bologna",
+          "name": "Bologna",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027534/Bologna_qucnsr.png",
           "localSpriteKey": "03.Serie A/Bologna",
           "isActive": true
         },
         {
           "id": "03seriea_004",
-          "displayName": "Cagliari",
+          "name": "Cagliari",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027535/Cagliari_vwn9wg.png",
           "localSpriteKey": "03.Serie A/Cagliari",
           "isActive": true
         },
         {
           "id": "03seriea_005",
-          "displayName": "Como",
+          "name": "Como",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027535/Como_yf3afe.png",
           "localSpriteKey": "03.Serie A/Como",
           "isActive": true
         },
         {
           "id": "03seriea_006",
-          "displayName": "Fiorentina",
+          "name": "Fiorentina",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027536/Fiorentina_bidl3q.png",
           "localSpriteKey": "03.Serie A/Fiorentina",
           "isActive": true
         },
         {
           "id": "03seriea_007",
-          "displayName": "Frosinone",
+          "name": "Frosinone",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027537/Frosinone_gqgclu.png",
           "localSpriteKey": "03.Serie A/Frosinone",
           "isActive": true
         },
         {
           "id": "03seriea_008",
-          "displayName": "Genoa",
+          "name": "Genoa",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027538/Genoa_ntfiso.png",
           "localSpriteKey": "03.Serie A/Genoa",
           "isActive": true
         },
         {
           "id": "03seriea_009",
-          "displayName": "Inter",
+          "name": "Inter",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027539/Inter_aam6jt.png",
           "localSpriteKey": "03.Serie A/Inter",
           "isActive": true
         },
         {
           "id": "03seriea_010",
-          "displayName": "Juventus",
+          "name": "Juventus",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027539/Juventus_f5p5ns.png",
           "localSpriteKey": "03.Serie A/Juventus",
           "isActive": true
         },
         {
           "id": "03seriea_011",
-          "displayName": "Lazio",
+          "name": "Lazio",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027540/Lazio_bpoay0.png",
           "localSpriteKey": "03.Serie A/Lazio",
           "isActive": true
         },
         {
           "id": "03seriea_012",
-          "displayName": "Lecce",
+          "name": "Lecce",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027541/Lecce_son9hi.png",
           "localSpriteKey": "03.Serie A/Lecce",
           "isActive": true
         },
         {
           "id": "03seriea_013",
-          "displayName": "Monza",
+          "name": "Monza",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027542/Monza_vi8d4o.png",
           "localSpriteKey": "03.Serie A/Monza",
           "isActive": true
         },
         {
           "id": "03seriea_014",
-          "displayName": "Napoli",
+          "name": "Napoli",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027542/Napoli_xckva5.png",
           "localSpriteKey": "03.Serie A/Napoli",
           "isActive": true
         },
         {
           "id": "03seriea_015",
-          "displayName": "Parma",
+          "name": "Parma",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027543/Parma_gshchb.png",
           "localSpriteKey": "03.Serie A/Parma",
           "isActive": true
         },
         {
           "id": "03seriea_016",
-          "displayName": "Roma",
+          "name": "Roma",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027544/Roma_sgkd3b.png",
           "localSpriteKey": "03.Serie A/Roma",
           "isActive": true
         },
         {
           "id": "03seriea_017",
-          "displayName": "Sassuolo",
+          "name": "Sassuolo",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027544/Sassuolo_ft2r2v.png",
           "localSpriteKey": "03.Serie A/Sassuolo",
           "isActive": true
         },
         {
           "id": "03seriea_018",
-          "displayName": "Torino",
+          "name": "Torino",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027545/Torino_xtprkw.png",
           "localSpriteKey": "03.Serie A/Torino",
           "isActive": true
         },
         {
           "id": "03seriea_019",
-          "displayName": "Udinese",
+          "name": "Udinese",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027546/Udinese_m2kzmg.png",
           "localSpriteKey": "03.Serie A/Udinese",
           "isActive": true
         },
         {
           "id": "03seriea_020",
-          "displayName": "Venezia",
+          "name": "Venezia",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027547/Venezia_kqndtb.png",
           "localSpriteKey": "03.Serie A/Venezia",
           "isActive": true
@@ -448,126 +448,126 @@
       "teams": [
         {
           "id": "04bundesliga_001",
-          "displayName": "Augsburg",
+          "name": "Augsburg",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027661/Augsburg_pako3j.png",
           "localSpriteKey": "04.Bundesliga/Augsburg",
           "isActive": true
         },
         {
           "id": "04bundesliga_002",
-          "displayName": "Bayer-Leverkusen",
+          "name": "Bayer-Leverkusen",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027662/Bayer-Leverkusen_yp2z7e.png",
           "localSpriteKey": "04.Bundesliga/Bayer-Leverkusen",
           "isActive": true
         },
         {
           "id": "04bundesliga_003",
-          "displayName": "Bayern-Munich",
+          "name": "Bayern-Munich",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027663/Bayern-Munich_v6y2hf.png",
           "localSpriteKey": "04.Bundesliga/Bayern-Munich",
           "isActive": true
         },
         {
           "id": "04bundesliga_004",
-          "displayName": "Borussia-Dortmund",
+          "name": "Borussia-Dortmund",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027664/Borussia-Dortmund_ni8fwg.png",
           "localSpriteKey": "04.Bundesliga/Borussia-Dortmund",
           "isActive": true
         },
         {
           "id": "04bundesliga_005",
-          "displayName": "Borussia-Monchengladbach",
+          "name": "Borussia-Monchengladbach",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028039/Borussia-Monchengladbach_fnip1q.png",
           "localSpriteKey": "04.Bundesliga/Borussia-Monchengladbach",
           "isActive": true
         },
         {
           "id": "04bundesliga_006",
-          "displayName": "Eintracht-Frankfurt",
+          "name": "Eintracht-Frankfurt",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028040/Eintracht-Frankfurt_ap4vcv.png",
           "localSpriteKey": "04.Bundesliga/Eintracht-Frankfurt",
           "isActive": true
         },
         {
           "id": "04bundesliga_007",
-          "displayName": "Freiburg",
+          "name": "Freiburg",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028040/Freiburg_rt5xwp.png",
           "localSpriteKey": "04.Bundesliga/Freiburg",
           "isActive": true
         },
         {
           "id": "04bundesliga_008",
-          "displayName": "Hamburger-SV",
+          "name": "Hamburger-SV",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028041/Hamburger-SV_lj0txs.png",
           "localSpriteKey": "04.Bundesliga/Hamburger-SV",
           "isActive": true
         },
         {
           "id": "04bundesliga_009",
-          "displayName": "Hoffenheim",
+          "name": "Hoffenheim",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028042/Hoffenheim_doq7ir.png",
           "localSpriteKey": "04.Bundesliga/Hoffenheim",
           "isActive": true
         },
         {
           "id": "04bundesliga_010",
-          "displayName": "Koln",
+          "name": "Koln",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028043/Koln_nkqncr.png",
           "localSpriteKey": "04.Bundesliga/Koln",
           "isActive": true
         },
         {
           "id": "04bundesliga_011",
-          "displayName": "Mainz",
+          "name": "Mainz",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028043/Mainz_ovt5gt.png",
           "localSpriteKey": "04.Bundesliga/Mainz",
           "isActive": true
         },
         {
           "id": "04bundesliga_012",
-          "displayName": "RB-Leipzig",
+          "name": "RB-Leipzig",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028044/RB-Leipzig_kq8g39.png",
           "localSpriteKey": "04.Bundesliga/RB-Leipzig",
           "isActive": true
         },
         {
           "id": "04bundesliga_013",
-          "displayName": "SC-Paderborn",
+          "name": "SC-Paderborn",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028046/SC-Paderborn_ccww6u.png",
           "localSpriteKey": "04.Bundesliga/SC-Paderborn",
           "isActive": true
         },
         {
           "id": "04bundesliga_014",
-          "displayName": "SV-Elversberg",
+          "name": "SV-Elversberg",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028048/SV-Elversberg_qj4ic4.png",
           "localSpriteKey": "04.Bundesliga/SV-Elversberg",
           "isActive": true
         },
         {
           "id": "04bundesliga_015",
-          "displayName": "Schalke-04",
+          "name": "Schalke-04",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028045/Schalke-04_dlajda.png",
           "localSpriteKey": "04.Bundesliga/Schalke-04",
           "isActive": true
         },
         {
           "id": "04bundesliga_016",
-          "displayName": "Stuttgart",
+          "name": "Stuttgart",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028047/Stuttgart_nehjqy.png",
           "localSpriteKey": "04.Bundesliga/Stuttgart",
           "isActive": true
         },
         {
           "id": "04bundesliga_017",
-          "displayName": "Union-Berlin",
+          "name": "Union-Berlin",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028049/Union-Berlin_vitjbb.png",
           "localSpriteKey": "04.Bundesliga/Union-Berlin",
           "isActive": true
         },
         {
           "id": "04bundesliga_018",
-          "displayName": "Werder-Bremen",
+          "name": "Werder-Bremen",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028050/Werder-Bremen_xjgouo.png",
           "localSpriteKey": "04.Bundesliga/Werder-Bremen",
           "isActive": true
@@ -581,126 +581,126 @@
       "teams": [
         {
           "id": "05ligue1_001",
-          "displayName": "Angers",
+          "name": "Angers",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027565/Angers_eioxx2.png",
           "localSpriteKey": "05.Ligue 1/Angers",
           "isActive": true
         },
         {
           "id": "05ligue1_002",
-          "displayName": "Auxerre",
+          "name": "Auxerre",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027565/Auxerre_atam03.png",
           "localSpriteKey": "05.Ligue 1/Auxerre",
           "isActive": true
         },
         {
           "id": "05ligue1_003",
-          "displayName": "Brest",
+          "name": "Brest",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027566/Brest_p8d9d4.png",
           "localSpriteKey": "05.Ligue 1/Brest",
           "isActive": true
         },
         {
           "id": "05ligue1_004",
-          "displayName": "Le-Havre",
+          "name": "Le-Havre",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027568/Le-Havre_pbms95.png",
           "localSpriteKey": "05.Ligue 1/Le-Havre",
           "isActive": true
         },
         {
           "id": "05ligue1_005",
-          "displayName": "Le-Mans",
+          "name": "Le-Mans",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027568/Le-Mans_fiipzz.png",
           "localSpriteKey": "05.Ligue 1/Le-Mans",
           "isActive": true
         },
         {
           "id": "05ligue1_006",
-          "displayName": "Lens",
+          "name": "Lens",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027569/Lens_tplnen.png",
           "localSpriteKey": "05.Ligue 1/Lens",
           "isActive": true
         },
         {
           "id": "05ligue1_007",
-          "displayName": "Lille",
+          "name": "Lille",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027570/Lille_dtqib7.png",
           "localSpriteKey": "05.Ligue 1/Lille",
           "isActive": true
         },
         {
           "id": "05ligue1_008",
-          "displayName": "Lorient",
+          "name": "Lorient",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027570/Lorient_nv7xxn.png",
           "localSpriteKey": "05.Ligue 1/Lorient",
           "isActive": true
         },
         {
           "id": "05ligue1_009",
-          "displayName": "Lyon",
+          "name": "Lyon",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027571/Lyon_ueg4ed.png",
           "localSpriteKey": "05.Ligue 1/Lyon",
           "isActive": true
         },
         {
           "id": "05ligue1_010",
-          "displayName": "Marseille",
+          "name": "Marseille",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027572/Marseille_twne4u.png",
           "localSpriteKey": "05.Ligue 1/Marseille",
           "isActive": true
         },
         {
           "id": "05ligue1_011",
-          "displayName": "Monaco",
+          "name": "Monaco",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027582/Monaco_hdz89b.png",
           "localSpriteKey": "05.Ligue 1/Monaco",
           "isActive": true
         },
         {
           "id": "05ligue1_012",
-          "displayName": "Nice",
+          "name": "Nice",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027639/Nice_r3jswm.png",
           "localSpriteKey": "05.Ligue 1/Nice",
           "isActive": true
         },
         {
           "id": "05ligue1_013",
-          "displayName": "Paris-FC",
+          "name": "Paris-FC",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027639/Paris-FC_lyziiq.png",
           "localSpriteKey": "05.Ligue 1/Paris-FC",
           "isActive": true
         },
         {
           "id": "05ligue1_014",
-          "displayName": "Paris-Saint-Germain",
+          "name": "Paris-Saint-Germain",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027640/Paris-Saint-Germain_txh2fp.png",
           "localSpriteKey": "05.Ligue 1/Paris-Saint-Germain",
           "isActive": true
         },
         {
           "id": "05ligue1_015",
-          "displayName": "Rennes",
+          "name": "Rennes",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027641/Rennes_tq6wnk.png",
           "localSpriteKey": "05.Ligue 1/Rennes",
           "isActive": true
         },
         {
           "id": "05ligue1_016",
-          "displayName": "Strasbourg",
+          "name": "Strasbourg",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027642/Strasbourg_yqrl1a.png",
           "localSpriteKey": "05.Ligue 1/Strasbourg",
           "isActive": true
         },
         {
           "id": "05ligue1_017",
-          "displayName": "Toulouse",
+          "name": "Toulouse",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027643/Toulouse_m4djs3.png",
           "localSpriteKey": "05.Ligue 1/Toulouse",
           "isActive": true
         },
         {
           "id": "05ligue1_018",
-          "displayName": "Troyes",
+          "name": "Troyes",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027643/Troyes_itrocl.png",
           "localSpriteKey": "05.Ligue 1/Troyes",
           "isActive": true
@@ -714,385 +714,385 @@
       "teams": [
         {
           "id": "06euro_001",
-          "displayName": "Albanian",
+          "name": "Albanian",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028376/Albanian_cih1cz.jpg",
           "localSpriteKey": "06.Euro/Albanian",
           "isActive": true
         },
         {
           "id": "06euro_002",
-          "displayName": "Andorra",
+          "name": "Andorra",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028375/Andorra_zmyz0k.png",
           "localSpriteKey": "06.Euro/Andorra",
           "isActive": true
         },
         {
           "id": "06euro_003",
-          "displayName": "Armenia",
+          "name": "Armenia",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028374/Armenia_nsclpz.png",
           "localSpriteKey": "06.Euro/Armenia",
           "isActive": true
         },
         {
           "id": "06euro_004",
-          "displayName": "Austria",
+          "name": "Austria",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028372/Austria_ofosws.png",
           "localSpriteKey": "06.Euro/Austria",
           "isActive": true
         },
         {
           "id": "06euro_005",
-          "displayName": "Azerbaijan",
+          "name": "Azerbaijan",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028371/Azerbaijan_gomjro.png",
           "localSpriteKey": "06.Euro/Azerbaijan",
           "isActive": true
         },
         {
           "id": "06euro_006",
-          "displayName": "Belarus",
+          "name": "Belarus",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028370/Belarus_vq2gje.png",
           "localSpriteKey": "06.Euro/Belarus",
           "isActive": true
         },
         {
           "id": "06euro_007",
-          "displayName": "Belgium",
+          "name": "Belgium",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028369/Belgium_rlqmfu.png",
           "localSpriteKey": "06.Euro/Belgium",
           "isActive": true
         },
         {
           "id": "06euro_008",
-          "displayName": "Bosnia and Herzegovina",
+          "name": "Bosnia and Herzegovina",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028367/Bosnia_and_Herzegovina_j6gunq.png",
           "localSpriteKey": "06.Euro/Bosnia_and_Herzegovina",
           "isActive": true
         },
         {
           "id": "06euro_009",
-          "displayName": "Bulgaria",
+          "name": "Bulgaria",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028366/Bulgaria_nej0h2.png",
           "localSpriteKey": "06.Euro/Bulgaria",
           "isActive": true
         },
         {
           "id": "06euro_010",
-          "displayName": "Croatia",
+          "name": "Croatia",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028365/Croatia_zxecyc.png",
           "localSpriteKey": "06.Euro/Croatia",
           "isActive": true
         },
         {
           "id": "06euro_011",
-          "displayName": "Cyprus",
+          "name": "Cyprus",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028364/Cyprus_cemfdi.png",
           "localSpriteKey": "06.Euro/Cyprus",
           "isActive": true
         },
         {
           "id": "06euro_012",
-          "displayName": "Czech Republic",
+          "name": "Czech Republic",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028362/Czech_Republic_xcvut9.png",
           "localSpriteKey": "06.Euro/Czech_Republic",
           "isActive": true
         },
         {
           "id": "06euro_013",
-          "displayName": "Denmark",
+          "name": "Denmark",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028361/Denmark_lpd5sv.png",
           "localSpriteKey": "06.Euro/Denmark",
           "isActive": true
         },
         {
           "id": "06euro_014",
-          "displayName": "England",
+          "name": "England",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028360/England_r9h3et.png",
           "localSpriteKey": "06.Euro/England",
           "isActive": true
         },
         {
           "id": "06euro_015",
-          "displayName": "Estonia",
+          "name": "Estonia",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028359/Estonia_vr8urk.png",
           "localSpriteKey": "06.Euro/Estonia",
           "isActive": true
         },
         {
           "id": "06euro_016",
-          "displayName": "Faroe Islands",
+          "name": "Faroe Islands",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028357/Faroe_Islands_vr9wkg.png",
           "localSpriteKey": "06.Euro/Faroe_Islands",
           "isActive": true
         },
         {
           "id": "06euro_017",
-          "displayName": "Finland",
+          "name": "Finland",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028356/Finland_uubdei.png",
           "localSpriteKey": "06.Euro/Finland",
           "isActive": true
         },
         {
           "id": "06euro_018",
-          "displayName": "France",
+          "name": "France",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028355/France_g6w949.png",
           "localSpriteKey": "06.Euro/France",
           "isActive": true
         },
         {
           "id": "06euro_019",
-          "displayName": "Georgia",
+          "name": "Georgia",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028354/Georgia_xpuwpf.png",
           "localSpriteKey": "06.Euro/Georgia",
           "isActive": true
         },
         {
           "id": "06euro_020",
-          "displayName": "Germany",
+          "name": "Germany",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028352/Germany_cmpxzk.png",
           "localSpriteKey": "06.Euro/Germany",
           "isActive": true
         },
         {
           "id": "06euro_021",
-          "displayName": "Gibraltar",
+          "name": "Gibraltar",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028351/Gibraltar_spz9e3.png",
           "localSpriteKey": "06.Euro/Gibraltar",
           "isActive": true
         },
         {
           "id": "06euro_022",
-          "displayName": "Greece",
+          "name": "Greece",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028350/Greece_mu38ab.png",
           "localSpriteKey": "06.Euro/Greece",
           "isActive": true
         },
         {
           "id": "06euro_023",
-          "displayName": "Hungary",
+          "name": "Hungary",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028349/Hungary_r6lnh9.png",
           "localSpriteKey": "06.Euro/Hungary",
           "isActive": true
         },
         {
           "id": "06euro_024",
-          "displayName": "Iceland",
+          "name": "Iceland",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028348/Iceland_nkvsqv.png",
           "localSpriteKey": "06.Euro/Iceland",
           "isActive": true
         },
         {
           "id": "06euro_025",
-          "displayName": "Ireland",
+          "name": "Ireland",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028346/Ireland_r5ytg7.png",
           "localSpriteKey": "06.Euro/Ireland",
           "isActive": true
         },
         {
           "id": "06euro_026",
-          "displayName": "Israel",
+          "name": "Israel",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028345/Israel_lsrugv.png",
           "localSpriteKey": "06.Euro/Israel",
           "isActive": true
         },
         {
           "id": "06euro_027",
-          "displayName": "Italy",
+          "name": "Italy",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028344/Italy_smxvwc.png",
           "localSpriteKey": "06.Euro/Italy",
           "isActive": true
         },
         {
           "id": "06euro_028",
-          "displayName": "Kazakhstan",
+          "name": "Kazakhstan",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028343/Kazakhstan_krir9d.png",
           "localSpriteKey": "06.Euro/Kazakhstan",
           "isActive": true
         },
         {
           "id": "06euro_029",
-          "displayName": "Kosovo",
+          "name": "Kosovo",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028341/Kosovo_of4h27.png",
           "localSpriteKey": "06.Euro/Kosovo",
           "isActive": true
         },
         {
           "id": "06euro_030",
-          "displayName": "Latvia",
+          "name": "Latvia",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028340/Latvia_hgpe98.png",
           "localSpriteKey": "06.Euro/Latvia",
           "isActive": true
         },
         {
           "id": "06euro_031",
-          "displayName": "Liechtenstein",
+          "name": "Liechtenstein",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028339/Liechtenstein_tlrxov.png",
           "localSpriteKey": "06.Euro/Liechtenstein",
           "isActive": true
         },
         {
           "id": "06euro_032",
-          "displayName": "Lithuania",
+          "name": "Lithuania",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028338/Lithuania_iinq0o.png",
           "localSpriteKey": "06.Euro/Lithuania",
           "isActive": true
         },
         {
           "id": "06euro_033",
-          "displayName": "Luxembourg",
+          "name": "Luxembourg",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028336/Luxembourg_gjgdnz.png",
           "localSpriteKey": "06.Euro/Luxembourg",
           "isActive": true
         },
         {
           "id": "06euro_034",
-          "displayName": "Macedonia",
+          "name": "Macedonia",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028335/Macedonia_dapgev.png",
           "localSpriteKey": "06.Euro/Macedonia",
           "isActive": true
         },
         {
           "id": "06euro_035",
-          "displayName": "Malta",
+          "name": "Malta",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028334/Malta_jdmurl.png",
           "localSpriteKey": "06.Euro/Malta",
           "isActive": true
         },
         {
           "id": "06euro_036",
-          "displayName": "Moldova",
+          "name": "Moldova",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028333/Moldova_u4rhk7.png",
           "localSpriteKey": "06.Euro/Moldova",
           "isActive": true
         },
         {
           "id": "06euro_037",
-          "displayName": "Montenegro",
+          "name": "Montenegro",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028331/Montenegro_ssdnuu.png",
           "localSpriteKey": "06.Euro/Montenegro",
           "isActive": true
         },
         {
           "id": "06euro_038",
-          "displayName": "Netherlands",
+          "name": "Netherlands",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028330/Netherlands_ugbw2n.png",
           "localSpriteKey": "06.Euro/Netherlands",
           "isActive": true
         },
         {
           "id": "06euro_039",
-          "displayName": "Northern Ireland",
+          "name": "Northern Ireland",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028329/Northern_Ireland_w1xgyb.png",
           "localSpriteKey": "06.Euro/Northern_Ireland",
           "isActive": true
         },
         {
           "id": "06euro_040",
-          "displayName": "Norway",
+          "name": "Norway",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028328/Norway_tcw7ep.png",
           "localSpriteKey": "06.Euro/Norway",
           "isActive": true
         },
         {
           "id": "06euro_041",
-          "displayName": "Poland",
+          "name": "Poland",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028326/Poland_ygvslf.png",
           "localSpriteKey": "06.Euro/Poland",
           "isActive": true
         },
         {
           "id": "06euro_042",
-          "displayName": "Portugal",
+          "name": "Portugal",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028325/Portugal_yojsdr.png",
           "localSpriteKey": "06.Euro/Portugal",
           "isActive": true
         },
         {
           "id": "06euro_043",
-          "displayName": "Romania",
+          "name": "Romania",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028324/Romania_cyjbhv.png",
           "localSpriteKey": "06.Euro/Romania",
           "isActive": true
         },
         {
           "id": "06euro_044",
-          "displayName": "Russia",
+          "name": "Russia",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028323/Russia_srea7n.png",
           "localSpriteKey": "06.Euro/Russia",
           "isActive": true
         },
         {
           "id": "06euro_045",
-          "displayName": "San Marino",
+          "name": "San Marino",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028322/San_Marino_tnubzv.png",
           "localSpriteKey": "06.Euro/San_Marino",
           "isActive": true
         },
         {
           "id": "06euro_046",
-          "displayName": "Scotland",
+          "name": "Scotland",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028320/Scotland_z83owz.png",
           "localSpriteKey": "06.Euro/Scotland",
           "isActive": true
         },
         {
           "id": "06euro_047",
-          "displayName": "Serbia",
+          "name": "Serbia",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028319/Serbia_gshymb.png",
           "localSpriteKey": "06.Euro/Serbia",
           "isActive": true
         },
         {
           "id": "06euro_048",
-          "displayName": "Slovakia",
+          "name": "Slovakia",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028318/Slovakia_k3hm2l.png",
           "localSpriteKey": "06.Euro/Slovakia",
           "isActive": true
         },
         {
           "id": "06euro_049",
-          "displayName": "Slovenia",
+          "name": "Slovenia",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028317/Slovenia_atugsj.png",
           "localSpriteKey": "06.Euro/Slovenia",
           "isActive": true
         },
         {
           "id": "06euro_050",
-          "displayName": "Sweden",
+          "name": "Sweden",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028314/Sweden_k0nbxi.png",
           "localSpriteKey": "06.Euro/Sweden",
           "isActive": true
         },
         {
           "id": "06euro_051",
-          "displayName": "Switzerland",
+          "name": "Switzerland",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028313/Switzerland_mrc8lu.png",
           "localSpriteKey": "06.Euro/Switzerland",
           "isActive": true
         },
         {
           "id": "06euro_052",
-          "displayName": "Turkey",
+          "name": "Turkey",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028312/Turkey_qbkmad.png",
           "localSpriteKey": "06.Euro/Turkey",
           "isActive": true
         },
         {
           "id": "06euro_053",
-          "displayName": "Ukraine",
+          "name": "Ukraine",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028310/Ukraine_z6s7xx.png",
           "localSpriteKey": "06.Euro/Ukraine",
           "isActive": true
         },
         {
           "id": "06euro_054",
-          "displayName": "Wales",
+          "name": "Wales",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028309/Wales_cjypux.png",
           "localSpriteKey": "06.Euro/Wales",
           "isActive": true
         },
         {
           "id": "06euro_055",
-          "displayName": "spain",
+          "name": "spain",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028315/spain_qoqun7.png",
           "localSpriteKey": "06.Euro/spain",
           "isActive": true
@@ -1106,42 +1106,42 @@
       "teams": [
         {
           "id": "07northcentralamerica_001",
-          "displayName": "Costa Rica",
+          "name": "Costa Rica",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028434/Costa_Rica_zeb2ng.png",
           "localSpriteKey": "07.North & Central America/Costa_Rica",
           "isActive": true
         },
         {
           "id": "07northcentralamerica_002",
-          "displayName": "Honduras",
+          "name": "Honduras",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028436/Honduras_vdjs8p.png",
           "localSpriteKey": "07.North & Central America/Honduras",
           "isActive": true
         },
         {
           "id": "07northcentralamerica_003",
-          "displayName": "Jamaica",
+          "name": "Jamaica",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028437/Jamaica_sedwow.png",
           "localSpriteKey": "07.North & Central America/Jamaica",
           "isActive": true
         },
         {
           "id": "07northcentralamerica_004",
-          "displayName": "Mexico",
+          "name": "Mexico",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028439/Mexico_ko04ox.png",
           "localSpriteKey": "07.North & Central America/Mexico",
           "isActive": true
         },
         {
           "id": "07northcentralamerica_005",
-          "displayName": "Panama",
+          "name": "Panama",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028440/Panama_f5hiof.png",
           "localSpriteKey": "07.North & Central America/Panama",
           "isActive": true
         },
         {
           "id": "07northcentralamerica_006",
-          "displayName": "United States",
+          "name": "United States",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028442/United_States_rdnvjz.png",
           "localSpriteKey": "07.North & Central America/United_States",
           "isActive": true
@@ -1155,70 +1155,70 @@
       "teams": [
         {
           "id": "08southamerica_001",
-          "displayName": "Argentina",
+          "name": "Argentina",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028490/Argentina_cxfipp.png",
           "localSpriteKey": "08.South America/Argentina",
           "isActive": true
         },
         {
           "id": "08southamerica_002",
-          "displayName": "Bandera de Ecuador",
+          "name": "Bandera de Ecuador",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028491/Bandera_de_Ecuador_ge7jxu.png",
           "localSpriteKey": "08.South America/Bandera_de_Ecuador",
           "isActive": true
         },
         {
           "id": "08southamerica_003",
-          "displayName": "Bolivia",
+          "name": "Bolivia",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028493/Bolivia_ahy74h.png",
           "localSpriteKey": "08.South America/Bolivia",
           "isActive": true
         },
         {
           "id": "08southamerica_004",
-          "displayName": "Brazil",
+          "name": "Brazil",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028496/Brazil_wvhfzd.png",
           "localSpriteKey": "08.South America/Brazil",
           "isActive": true
         },
         {
           "id": "08southamerica_005",
-          "displayName": "Chile",
+          "name": "Chile",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028498/Chile_hnvpw9.png",
           "localSpriteKey": "08.South America/Chile",
           "isActive": true
         },
         {
           "id": "08southamerica_006",
-          "displayName": "Colombia",
+          "name": "Colombia",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028499/Colombia_y4s42m.png",
           "localSpriteKey": "08.South America/Colombia",
           "isActive": true
         },
         {
           "id": "08southamerica_007",
-          "displayName": "Paraguay",
+          "name": "Paraguay",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028501/Paraguay_l2fddi.png",
           "localSpriteKey": "08.South America/Paraguay",
           "isActive": true
         },
         {
           "id": "08southamerica_008",
-          "displayName": "Peru",
+          "name": "Peru",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028503/Peru_sapcnv.png",
           "localSpriteKey": "08.South America/Peru",
           "isActive": true
         },
         {
           "id": "08southamerica_009",
-          "displayName": "Uruguay",
+          "name": "Uruguay",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028504/Uruguay_npr3qy.png",
           "localSpriteKey": "08.South America/Uruguay",
           "isActive": true
         },
         {
           "id": "08southamerica_010",
-          "displayName": "Venezuela",
+          "name": "Venezuela",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028506/Venezuela_y7yxxa.png",
           "localSpriteKey": "08.South America/Venezuela",
           "isActive": true
@@ -1232,98 +1232,98 @@
       "teams": [
         {
           "id": "09africa_001",
-          "displayName": "Algeria",
+          "name": "Algeria",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028559/Algeria_shklok.png",
           "localSpriteKey": "09.Africa/Algeria",
           "isActive": true
         },
         {
           "id": "09africa_002",
-          "displayName": "Burkina Faso",
+          "name": "Burkina Faso",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028561/Burkina_Faso_llqffy.png",
           "localSpriteKey": "09.Africa/Burkina_Faso",
           "isActive": true
         },
         {
           "id": "09africa_003",
-          "displayName": "Cameroon",
+          "name": "Cameroon",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028563/Cameroon_tj6eg5.png",
           "localSpriteKey": "09.Africa/Cameroon",
           "isActive": true
         },
         {
           "id": "09africa_004",
-          "displayName": "Egypt",
+          "name": "Egypt",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028564/Egypt_qchxfc.png",
           "localSpriteKey": "09.Africa/Egypt",
           "isActive": true
         },
         {
           "id": "09africa_005",
-          "displayName": "Ghana",
+          "name": "Ghana",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028566/Ghana_kwpz9x.png",
           "localSpriteKey": "09.Africa/Ghana",
           "isActive": true
         },
         {
           "id": "09africa_006",
-          "displayName": "Guinea",
+          "name": "Guinea",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028568/Guinea_zwl6tl.png",
           "localSpriteKey": "09.Africa/Guinea",
           "isActive": true
         },
         {
           "id": "09africa_007",
-          "displayName": "Ivory Coast",
+          "name": "Ivory Coast",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028569/Ivory_Coast_afqvro.png",
           "localSpriteKey": "09.Africa/Ivory_Coast",
           "isActive": true
         },
         {
           "id": "09africa_008",
-          "displayName": "Mali",
+          "name": "Mali",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028571/Mali_lzp77j.png",
           "localSpriteKey": "09.Africa/Mali",
           "isActive": true
         },
         {
           "id": "09africa_009",
-          "displayName": "Morocco",
+          "name": "Morocco",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028574/Morocco_ul9rj4.png",
           "localSpriteKey": "09.Africa/Morocco",
           "isActive": true
         },
         {
           "id": "09africa_010",
-          "displayName": "Nigeria",
+          "name": "Nigeria",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028575/Nigeria_ownn87.png",
           "localSpriteKey": "09.Africa/Nigeria",
           "isActive": true
         },
         {
           "id": "09africa_011",
-          "displayName": "Senegal",
+          "name": "Senegal",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028576/Senegal_zyqsq3.png",
           "localSpriteKey": "09.Africa/Senegal",
           "isActive": true
         },
         {
           "id": "09africa_012",
-          "displayName": "South Africa",
+          "name": "South Africa",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028579/South_Africa_jcpmx4.png",
           "localSpriteKey": "09.Africa/South_Africa",
           "isActive": true
         },
         {
           "id": "09africa_013",
-          "displayName": "Tunisia",
+          "name": "Tunisia",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028581/Tunisia_zksslt.png",
           "localSpriteKey": "09.Africa/Tunisia",
           "isActive": true
         },
         {
           "id": "09africa_014",
-          "displayName": "Zambia",
+          "name": "Zambia",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028583/Zambia_ck9t5u.png",
           "localSpriteKey": "09.Africa/Zambia",
           "isActive": true
@@ -1337,126 +1337,126 @@
       "teams": [
         {
           "id": "10asiaoceania_001",
-          "displayName": "Australia",
+          "name": "Australia",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028633/Australia_smrhra.png",
           "localSpriteKey": "10.Asia-Oceania/Australia",
           "isActive": true
         },
         {
           "id": "10asiaoceania_002",
-          "displayName": "China",
+          "name": "China",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028634/China_eqzon8.png",
           "localSpriteKey": "10.Asia-Oceania/China",
           "isActive": true
         },
         {
           "id": "10asiaoceania_003",
-          "displayName": "Iran",
+          "name": "Iran",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028637/Iran_lzctik.png",
           "localSpriteKey": "10.Asia-Oceania/Iran",
           "isActive": true
         },
         {
           "id": "10asiaoceania_004",
-          "displayName": "Iraq",
+          "name": "Iraq",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028638/Iraq_ka8rlq.png",
           "localSpriteKey": "10.Asia-Oceania/Iraq",
           "isActive": true
         },
         {
           "id": "10asiaoceania_005",
-          "displayName": "Japan",
+          "name": "Japan",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028640/Japan_ek4o0m.png",
           "localSpriteKey": "10.Asia-Oceania/Japan",
           "isActive": true
         },
         {
           "id": "10asiaoceania_006",
-          "displayName": "Jordan",
+          "name": "Jordan",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028688/Jordan_s8czzm.png",
           "localSpriteKey": "10.Asia-Oceania/Jordan",
           "isActive": true
         },
         {
           "id": "10asiaoceania_007",
-          "displayName": "Kuwait",
+          "name": "Kuwait",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028694/Kuwait_f0ux3g.png",
           "localSpriteKey": "10.Asia-Oceania/Kuwait",
           "isActive": true
         },
         {
           "id": "10asiaoceania_008",
-          "displayName": "Lebanon",
+          "name": "Lebanon",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028696/Lebanon_s12tni.png",
           "localSpriteKey": "10.Asia-Oceania/Lebanon",
           "isActive": true
         },
         {
           "id": "10asiaoceania_009",
-          "displayName": "New Zealand",
+          "name": "New Zealand",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028698/New_Zealand_cmwiti.png",
           "localSpriteKey": "10.Asia-Oceania/New_Zealand",
           "isActive": true
         },
         {
           "id": "10asiaoceania_010",
-          "displayName": "North Korea",
+          "name": "North Korea",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028699/North_Korea_mzbqzw.png",
           "localSpriteKey": "10.Asia-Oceania/North_Korea",
           "isActive": true
         },
         {
           "id": "10asiaoceania_011",
-          "displayName": "Oman",
+          "name": "Oman",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028701/Oman_otuxtl.png",
           "localSpriteKey": "10.Asia-Oceania/Oman",
           "isActive": true
         },
         {
           "id": "10asiaoceania_012",
-          "displayName": "Qatar",
+          "name": "Qatar",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028703/Qatar_xe9yam.png",
           "localSpriteKey": "10.Asia-Oceania/Qatar",
           "isActive": true
         },
         {
           "id": "10asiaoceania_013",
-          "displayName": "Saudi Arabia",
+          "name": "Saudi Arabia",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028706/Saudi_Arabia_ijjuxd.png",
           "localSpriteKey": "10.Asia-Oceania/Saudi_Arabia",
           "isActive": true
         },
         {
           "id": "10asiaoceania_014",
-          "displayName": "South of Korean",
+          "name": "South of Korean",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028707/South_of_Korean_r4mmas.png",
           "localSpriteKey": "10.Asia-Oceania/South_of_Korean",
           "isActive": true
         },
         {
           "id": "10asiaoceania_015",
-          "displayName": "Thailand",
+          "name": "Thailand",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028709/Thailand_jyla47.png",
           "localSpriteKey": "10.Asia-Oceania/Thailand",
           "isActive": true
         },
         {
           "id": "10asiaoceania_016",
-          "displayName": "United Arab Emirates",
+          "name": "United Arab Emirates",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028711/United_Arab_Emirates_u4uqy3.png",
           "localSpriteKey": "10.Asia-Oceania/United_Arab_Emirates",
           "isActive": true
         },
         {
           "id": "10asiaoceania_017",
-          "displayName": "Uzbekistan",
+          "name": "Uzbekistan",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028713/Uzbekistan_ho9vze.png",
           "localSpriteKey": "10.Asia-Oceania/Uzbekistan",
           "isActive": true
         },
         {
           "id": "10asiaoceania_018",
-          "displayName": "Vietnam",
+          "name": "Vietnam",
           "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786028715/Vietnam_rmmsti.png",
           "localSpriteKey": "10.Asia-Oceania/Vietnam",
           "isActive": true
