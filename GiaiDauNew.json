@@ -22,21 +22,21 @@
         {
           "id": "01premierleague_003",
           "name": "Bournemouth",
-          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027437/Bournemouth_pcm8nj.png",
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027437/Bournemouth_pcm8nj.png1",
           "localSpriteKey": "01.Premier League/Bournemouth",
           "isActive": true
         },
         {
           "id": "01premierleague_004",
           "name": "Brentford",
-          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027438/Brentford_mrb2ei.png",
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027438/Brentford_mrb2ei.png2",
           "localSpriteKey": "01.Premier League/Brentford",
           "isActive": true
         },
         {
           "id": "01premierleague_005",
           "name": "Brighton",
-          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027438/Brighton_q4gvbo.png",
+          "logoUrl": "https://res.cloudinary.com/dwh0dprtq/image/upload/v1786027438/Brighton_q4gvbo.png3",
           "localSpriteKey": "01.Premier League/Brighton",
           "isActive": true
         },
